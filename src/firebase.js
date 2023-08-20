@@ -2,12 +2,13 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCFPZ1bRfj6fAroMSKI8WhVoiM6yT4ecXo",
-  authDomain: "fir-9-tutorial-fbfd1.firebaseapp.com",
-  projectId: "fir-9-tutorial-fbfd1",
-  storageBucket: "fir-9-tutorial-fbfd1.appspot.com",
-  messagingSenderId: "263906680188",
-  appId: "1:263906680188:web:68b47a396e30757ce918f9"
+  apiKey: "AIzaSyBtFBpcCNEWBkFZh2JreBAm_SX6RYvNinQ",
+  authDomain: "singularity-red.firebaseapp.com",
+  projectId: "singularity-red",
+  storageBucket: "singularity-red.appspot.com",
+  messagingSenderId: "1093747823550",
+  appId: "1:1093747823550:web:2911cf0457ad1b2cb61fef",
+  measurementId: "G-TY7CW3KBDL"
 };
 
 const app = initializeApp(firebaseConfig);
