@@ -5,7 +5,12 @@
   - Find the best club for yourself. Information about various ***clubs and societies*** of the college. 
   - This is made for the students by the students. All the resources are provided by students and ***everyone can contribute***. Your contribution is really appreciated. Your input will be updated as soon as confirmed by admins.
 
-Check out our site here: https://team-22.vercel.app/
+# Future Ideas
+
+1. A separate platform for admin and backend management.
+2. Profile system for user login and accounts.
+3. Topic wise forums for specific discussion.
+4. Find mentors based on user profiles.
 
 ## Tech-Stack Used:
 The technologies used in this web-app are:
